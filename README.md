@@ -16,7 +16,12 @@ ros2 launch rm_vision_bringup vision_bringup.launch.py
 
 根据情况修改文件。
 
-在`启动应用程序`中
+
+在`启动应用程序`中点击添加
+
 ![截图 2024-10-29 21-37-16](https://github.com/user-attachments/assets/3978751a-3d30-44ec-9357-4f996cbb76c0)
 
-a
+像这样配置
+
+![b](https://github.com/user-attachments/assets/85b0d6f8-5df9-4285-98df-75e6d4bbb871)
+
