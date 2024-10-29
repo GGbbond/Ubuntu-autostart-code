@@ -4,6 +4,7 @@ Ubuntu开机自动启动自瞄
 在/home/ma/目录中新建`auto_start.bash`文件,
 
 
+
 `auto_start.bash`文件/
 ```
 #! /bin/bash
@@ -25,3 +26,4 @@ ros2 launch rm_vision_bringup vision_bringup.launch.py
 
 ![b](https://github.com/user-attachments/assets/85b0d6f8-5df9-4285-98df-75e6d4bbb871)
 
+最后保存
