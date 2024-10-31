@@ -15,7 +15,7 @@ source /home/ma/MA/FYT2024_vision1_HIK1_shaobing/install/setup.bash
 ros2 launch rm_bringup bringup.launch.py
 ```
 
-根据情况修改文件。
+根据情况修改文件路径。
 
 
 在`启动应用程序`中点击添加
