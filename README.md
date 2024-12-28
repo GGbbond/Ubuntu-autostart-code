@@ -39,3 +39,9 @@ gnome-terminal -- "/home/ma/auto_start.bash"
 ![b](https://github.com/user-attachments/assets/85b0d6f8-5df9-4285-98df-75e6d4bbb871)
 
 最后保存
+
+
+给bash文件福赋权
+```
+sudo chmod 777 auto_start.bash
+```
